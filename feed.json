@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "andy-test-site-1",
+    "description": "",
+    "home_page_url": "https://captainrobbo.github.io/publii-test-1",
+    "feed_url": "https://captainrobbo.github.io/publii-test-1/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Andy Robinson"
+    },
+    "items": [
+        {
+            "id": "https://captainrobbo.github.io/publii-test-1/welcome-to-my-new-site.html",
+            "url": "https://captainrobbo.github.io/publii-test-1/welcome-to-my-new-site.html",
+            "title": "Welcome to my new site",
+            "summary": "Trying the block editor.&nbsp; I want to write some cool stuff Now how do I position it, I wonder?",
+            "content_html": "\n  <p>\n    Trying the block editor.&nbsp; I want to write some cool stuff\n  </p>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://captainrobbo.github.io/publii-test-1/media/posts/1/andyr-1.jpg\" height=\"1000\" width=\"1000\" alt=\"my face\"  sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"https://captainrobbo.github.io/publii-test-1/media/posts/1/responsive/andyr-1-xs.jpg 640w ,https://captainrobbo.github.io/publii-test-1/media/posts/1/responsive/andyr-1-sm.jpg 768w ,https://captainrobbo.github.io/publii-test-1/media/posts/1/responsive/andyr-1-md.jpg 1024w ,https://captainrobbo.github.io/publii-test-1/media/posts/1/responsive/andyr-1-lg.jpg 1366w ,https://captainrobbo.github.io/publii-test-1/media/posts/1/responsive/andyr-1-xl.jpg 1600w ,https://captainrobbo.github.io/publii-test-1/media/posts/1/responsive/andyr-1-2xl.jpg 1920w\">\n      <figcaption>My handsome face</figcaption>\n    </figure>\n\n  <p>\n    Now how do I position it, I wonder?\n  </p>\n\n  <p>\n    \n  </p>",
+            "author": {
+                "name": "Andy Robinson"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-11-10T20:13:06+00:00",
+            "date_modified": "2024-11-10T20:13:06+00:00"
+        }
+    ]
+}

@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://captainrobbo.github.io/publii-test-1/sitemap.xml

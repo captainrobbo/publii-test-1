@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>andy-test-site-1</title>
+    <link href="https://captainrobbo.github.io/publii-test-1/feed.xml" rel="self" />
+    <link href="https://captainrobbo.github.io/publii-test-1" />
+    <updated>2024-11-10T20:13:06+00:00</updated>
+    <author>
+        <name>Andy Robinson</name>
+    </author>
+    <id>https://captainrobbo.github.io/publii-test-1</id>
+
+    <entry>
+        <title>Welcome to my new site</title>
+        <author>
+            <name>Andy Robinson</name>
+        </author>
+        <link href="https://captainrobbo.github.io/publii-test-1/welcome-to-my-new-site.html"/>
+        <id>https://captainrobbo.github.io/publii-test-1/welcome-to-my-new-site.html</id>
+
+        <updated>2024-11-10T20:13:06+00:00</updated>
+            <summary>
+                <![CDATA[
+                    Trying the block editor.&nbsp; I want to write some cool stuff Now how do I position it, I wonder?
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    Trying the block editor.&nbsp; I want to write some cool stuff
+  </p>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://captainrobbo.github.io/publii-test-1/media/posts/1/andyr-1.jpg" height="1000" width="1000" alt="my face"  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://captainrobbo.github.io/publii-test-1/media/posts/1/responsive/andyr-1-xs.jpg 640w ,https://captainrobbo.github.io/publii-test-1/media/posts/1/responsive/andyr-1-sm.jpg 768w ,https://captainrobbo.github.io/publii-test-1/media/posts/1/responsive/andyr-1-md.jpg 1024w ,https://captainrobbo.github.io/publii-test-1/media/posts/1/responsive/andyr-1-lg.jpg 1366w ,https://captainrobbo.github.io/publii-test-1/media/posts/1/responsive/andyr-1-xl.jpg 1600w ,https://captainrobbo.github.io/publii-test-1/media/posts/1/responsive/andyr-1-2xl.jpg 1920w">
+      <figcaption>My handsome face</figcaption>
+    </figure>
+
+  <p>
+    Now how do I position it, I wonder?
+  </p>
+
+  <p>
+    
+  </p>
+            ]]>
+        </content>
+    </entry>
+</feed>

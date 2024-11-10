@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://captainrobbo.github.io/publii-test-1/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://captainrobbo.github.io/publii-test-1/</loc>
+</url>
+<url>
+<loc>https://captainrobbo.github.io/publii-test-1/welcome-to-my-new-site.html</loc>
+<lastmod>2024-11-10T20:13:06+00:00</lastmod>
+<image:image>
+<image:loc>https://captainrobbo.github.io/publii-test-1/media/posts/1/andyr-1.jpg</image:loc>
+<image:title><![CDATA[my face]]></image:title>
+</image:image>
+</url>
+</urlset>
